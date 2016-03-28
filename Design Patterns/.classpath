@@ -31,5 +31,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="src" path="NullObject"/>
+	<classpathentry kind="src" path="State"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
