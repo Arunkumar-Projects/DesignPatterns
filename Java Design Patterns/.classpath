@@ -5,12 +5,12 @@
 	<classpathentry kind="src" path="Proxy Pattern"/>
 	<classpathentry kind="src" path="Null Object Pattern"/>
 	<classpathentry kind="src" path="Decorator Pattern"/>
-	<classpathentry kind="src" path="Facade"/>
-	<classpathentry kind="src" path="Factory"/>
-	<classpathentry kind="src" path="Mediator"/>
-	<classpathentry kind="src" path="Singleton"/>
-	<classpathentry kind="src" path="State"/>
-	<classpathentry kind="src" path="Template"/>
+	<classpathentry kind="src" path="Facade Pattern"/>
+	<classpathentry kind="src" path="Factory Pattern"/>
+	<classpathentry kind="src" path="Mediator Pattern"/>
+	<classpathentry kind="src" path="Singleton Pattern"/>
+	<classpathentry kind="src" path="State Pattern"/>
+	<classpathentry kind="src" path="Template Pattern"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
